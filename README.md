@@ -27,11 +27,7 @@ A modern music streaming web app built with **React + Vite**, styled using **Tai
 
 ---
 
-## 📸 Screenshots
 
-> You can include screenshots or a live demo GIF here.
-
----
 
 ## 📦 Installation
 
@@ -39,8 +35,7 @@ A modern music streaming web app built with **React + Vite**, styled using **Tai
    ```bash
    git clone https://github.com/yourusername/spotify-clone.git
    cd spotify-clone
-````
-
+   
 2. **Install dependencies**
 
    ```bash
